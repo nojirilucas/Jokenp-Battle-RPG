@@ -1,0 +1,2 @@
+# Este projeto utiliza apenas a biblioteca padrão do Python (tkinter).
+# No Linux (Ubuntu/Debian), certifique-se de ter o pacote python3-tk instalado.
