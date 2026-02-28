@@ -1,4 +1,9 @@
-# ⚔️ Jokenpô Battle RPG
+# Jokenpô Battle RPG
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ec28d266-86e1-45f6-8f78-8a695ef2bc15" width="500" alt="Gameplay do Jokenpô Battle RPG" />
+  <p><i>Mini-game de combate por turnos inspirado em mecânicas clássicas de RPG.</i></p>
+</div>
 
 ## Descrição
 Este é um mini-game de combate por turnos desenvolvido em **Python** utilizando a biblioteca gráfica **Tkinter**. O jogador assume o papel de um herói que deve enfrentar um inimigo em um duelo estratégico de Pedra, Papel e Tesoura, onde cada vitória reduz a vida do oponente.
@@ -33,8 +38,6 @@ Conforme solicitado nas diretrizes da tarefa prática:
     ```
 
 ---
-
-<img width="596" height="644" alt="Image" src="https://github.com/user-attachments/assets/ec28d266-86e1-45f6-8f78-8a695ef2bc15" />
 
 ## Arquivos
 * `meu_app.py`: Código fonte principal.
