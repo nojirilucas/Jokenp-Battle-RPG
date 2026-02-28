@@ -34,6 +34,8 @@ Conforme solicitado nas diretrizes da tarefa prática:
 
 ---
 
+<img width="596" height="644" alt="Image" src="https://github.com/user-attachments/assets/ec28d266-86e1-45f6-8f78-8a695ef2bc15" />
+
 ## Arquivos
 * `meu_app.py`: Código fonte principal.
 * `hero.png` / `enemy.png`: Assets visuais da arena.
