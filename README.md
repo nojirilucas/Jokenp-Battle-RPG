@@ -43,3 +43,7 @@ Conforme solicitado nas diretrizes da tarefa prática:
 * `meu_app.py`: Código fonte principal.
 * `hero.png` / `enemy.png`: Assets visuais da arena.
 * `requirements.txt`: Dependências do sistema.
+
+No Linux, instale o suporte gráfico:
+   ```bash
+   sudo apt install python3-tk
