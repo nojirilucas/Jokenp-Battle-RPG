@@ -32,6 +32,7 @@ Caso esteja no Linux, instale o suporte gráfico antes de rodar:
 ```bash
 sudo apt update
 sudo apt install python3-tk
+
 python meu_app.py
 ou 
 python3 meu_app.py
