@@ -1,6 +1,3 @@
-Como o Tkinter não é instalado via `pip`, o seu arquivo deve servir como um guia de instalação de sistema, o que é uma prática avançada e correta.
-
-```text
 # Bibliotecas Nativas (Não requerem pip install):
 # - tkinter
 # - random
