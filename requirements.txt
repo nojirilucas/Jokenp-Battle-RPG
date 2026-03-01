@@ -1,2 +1,4 @@
-# Este projeto utiliza apenas a biblioteca padrão do Python (tkinter).
-# No Linux (Ubuntu/Debian), certifique-se de ter o pacote python3-tk instalado.
+# O Tkinter é uma biblioteca nativa do Python.
+# Não é necessário instalar via pip na maioria dos sistemas.
+# Dependência de sistema (apenas para Linux):
+# sudo apt install python3-tk
