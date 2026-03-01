@@ -1,10 +1,3 @@
-# Jokenpô Battle RPG
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ec28d266-86e1-45f6-8f78-8a695ef2bc15" width="500" alt="Gameplay do Jokenpô Battle RPG" />
-  <p><i>Mini-game de combate por turnos inspirado em mecânicas clássicas de RPG.</i></p>
-</div>
-
 # Battle RPG
 
 <div align="center">
